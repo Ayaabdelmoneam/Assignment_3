@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+    <string name="password">Password</string>
+    <string name="email_or_phone_number">Email or phone number</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_for_facebook">Sign Up for Facebook</string>
+    <string name="help_center">Help Center</string>
+    <string name="unblast">Unblast</string>
+    <string name="share">Share</string>
+    <string name="comment">Comment</string>
+</resources>
